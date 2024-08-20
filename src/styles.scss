@@ -1,0 +1,201 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #faf6f6;
+    color: #333;
+  }
+
+  .hero-section {
+    background-color: #f93939;
+    color: white;
+    padding: 100px 20px;
+    position: relative;
+  }
+
+  .hero-section h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+
+  .hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+
+  .hero-section .search-box {
+    max-width: 400px;
+    margin-bottom: 30px;
+  }
+
+  .hero-section .burger-image {
+    position: absolute;
+    right: 190px;
+    top: 42%;
+    transform: translateY(-50%);
+    width: 300px;
+  }
+
+  .hero-section .stats {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .hero-section .stats span {
+    display: block;
+  }
+
+  .hero-section {
+    background-color: #f93939;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+
+  .navbar-bg-color {
+    background-color: #f93939 !important;
+  }
+
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .navbar-nav .nav-link {
+    color: white;
+    margin-right: 20px;
+  }
+
+  .search-box {
+    margin-top: 20px;
+  }
+
+  .restaurant-stats {
+    margin-top: 30px;
+  }
+
+  .stats-item {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .floating-burger img {
+    width: 200px;
+    margin-top: 30px;
+  }
+
+  .feature-section {
+    padding: 60px 20px;
+  }
+
+  .feature-section h2 {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  .feature-section p {
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
+
+  .feature-section img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+
+  .download-section {
+    background-color: #f93939;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+
+  .download-section h2 {
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+
+  .download-section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+
+  .download-section .app-buttons img {
+    width: 150px;
+    margin: 0 10px;
+  }
+
+  .download-section .app-image {
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .map-section {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+
+  footer {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .footer-links a {
+    margin-right: 15px;
+    color: #000;
+  }
+
+  .footer-links a:last-child {
+    margin-right: 0;
+  }
+
+  .city-list a {
+    display: block;
+    margin-bottom: 5px;
+    color: #000;
+    text-decoration: none;
+  }
+
+  .city-list a:hover {
+    text-decoration: underline;
+  }
+
+  .footer {
+    background-color: #f8f1e9;
+    /* Light background similar to the image */
+    padding: 40px 0;
+    text-align: start;
+  }
+
+  .footer-logo {
+    font-size: 24px;
+    color: #f24040;
+    /* Red color for "GoGrubz" logo */
+    font-weight: bold;
+  }
+
+  .footer .text-muted {
+    font-size: 14px;
+    color: #a1a1a1;
+    /* Muted text color */
+  }
+
+  .footer a {
+    color: #656565;
+    /* Link color */
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
+
+  .footer .social-icons a {
+    color: #656565;
+    font-size: 20px;
+    margin-right: 10px;
+  }
